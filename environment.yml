@@ -1,0 +1,4 @@
+name: mie451-warmup
+dependencies:
+  - python=3.6
+  - nb_conda
